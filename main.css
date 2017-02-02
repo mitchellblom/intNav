@@ -1,0 +1,17 @@
+.nav {
+	list-style: none;
+	border: 2px double black;
+	display: block;
+	text-align: center;
+	width: 50%;
+	margin: auto;
+}
+
+a:hover {
+	color: orange;
+	background-color: purple;
+}
+
+.nav:active {
+	padding: 0 5px 0 5px;
+}
